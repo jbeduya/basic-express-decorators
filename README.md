@@ -17,12 +17,14 @@ Enable the following:
 "experimentalDecorators": true,
 "emitDecoratorMetadata": true
 }
+```
 
 # Usage
 
 Let's say you have  `controllers` folder. Create two files under it.
 
 `home.ts`
+
 ```typescript
 import { controller, get } from "basic-express-decorators";
 import { Request, Response } from 'express';
