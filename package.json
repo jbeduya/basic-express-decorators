@@ -1,6 +1,6 @@
 {
   "name": "@webgeek/basic-express-decorators",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic Decorators for Express with support for `express-validator`",
   "main": "dist/index.js",
   "scripts": {
