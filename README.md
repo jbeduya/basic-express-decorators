@@ -2,6 +2,8 @@
 
 Basic Decorators for Express - Includes supports for `express-validator` using Typescript
 
+Checkout this repository https://github.com/jbeduya/basic-express-decorators-demo for more information.
+
 # Installation
 
 ```
